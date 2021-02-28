@@ -15,13 +15,17 @@
 
 * [CSE251](https://www.cse.msu.edu/~cse251/index.html)：密歇根州立大学CSE 251，C语言基础课程
 * [MIT 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)：Introduction to Computer Science and Programming in Python
-* [Harvard CS50](https://cs50.harvard.edu/x/2020/): This is CS50!一门很好的导论课程，覆盖的范围非常之广，且内容与MIT的导论课程颇为互补。
+* [Harvard CS50](https://cs50.harvard.edu/x/2020/): This is CS50!一门很好的导论课程，覆盖的范围非常之广，且内容与MIT的导论课程颇为互补.
+* [IntelliJIDEA ReferenceCard](https://github.com/gumutianqi/IntelliJIDEA_ReferenceCard_CN)：IntelliJIDEA 快捷键.
 
 ## 学习情况
 
-- [ ] 计算机程序的构造和解释 | note
-- [ ] SCIP | note
-- [ ] MIT 6.null | note
-- [ ] The Absolute Beginner's Guide to C | note
-- [ ] CSE251 | note
+| Course                             | Complete | Current Progress |      Note      | Homework |
+| :--------------------------------- | :------: | :--------------: | :------------: | :------: |
+| 计算机程序的构造和解释             |    ❌     |        5%        | [:notebook:]()​ |          |
+| SCIP                               |    ❌     |                  | [:notebook:]() |          |
+| MIT 6.null                         |    ❌     |                  | [:notebook:]() |          |
+| The Absolute Beginner's Guide to C |    ❌     |                  | [:notebook:]() |          |
+| CSE251                             |    ❌     |                  | [:notebook:]() |          |
+| IntelliJIDEA ReferenceCard         |    ❌     |                  | [:notebook:]() |          |
 
