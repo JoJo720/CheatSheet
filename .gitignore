@@ -127,8 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/.idea/cs-self-study-plan.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/vcs.xml
+.idea/
